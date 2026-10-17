@@ -1,13 +1,19 @@
-<h1 align="center">xiaoMei 🦠</h1>
+<h3 align="center">你好，我是 ShengBo 👋</h3>
+
+<p align="center">
+  <em>玩转 AI · 把重复的事自动化</em>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=440&lines=AI+%E5%B7%A5%E5%85%B7%E9%93%BE%E6%8E%A2%E7%B4%A2%E8%80%85;%E8%83%BD%E5%86%99%E8%84%9A%E6%9C%AC%E5%B0%B1%E4%B8%8D%E9%87%8D%E5%A4%8D%E5%8A%B3%E5%8A%A8;%E6%AD%A3%E5%9C%A8%E5%AD%A6%20Rust" alt="typing" />
+</p>
+
+---
+
+<h3 align="center">🦠 xiaoMei · 另一个我</h3>
 
 <p align="center">
   <em>Reverse Engineer / Security Researcher / Fullstack / Everything-Is-Source-Code Believer</em>
-</p>
-
-<p align="center">a.k.a. <strong>ShengBo</strong></p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=440&lines=%E4%B8%87%E7%89%A9%E7%9A%86%E6%BA%90%E7%A0%81;%E5%9C%A8+0+%E4%B8%8E+1+%E4%B9%8B%E9%97%B4%E6%BC%AB%E6%B8%B8;%E5%A5%BD%E5%A5%87%E5%BF%83%E6%BB%A1%E8%BD%BD" alt="typing" />
 </p>
 
 <p align="center">
@@ -19,6 +25,8 @@
   <em>Currently: wandering between 0 and 1.</em><br/>
   <em>Status: curiosity fully loaded.</em>
 </p>
+
+---
 
 ## 🛠️ 我在折腾什么
 
