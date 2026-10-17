@@ -44,6 +44,7 @@
 | [`sf-express-return-picture-update`](https://github.com/SingBoJia/sf-express-return-picture-update) | 顺丰电商退货地址截图模拟生成器 |
 
 <p align="center">
+  <a href="mailto:singbojia@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-singbojia%40gmail.com-1F6FEB?logo=gmail&logoColor=white"></a>
   <a href="https://sheng.bo"><img alt="Blog" src="https://img.shields.io/badge/blog-sheng.bo-58A6FF?logo=about.me&logoColor=white"></a>
   <img alt="Location" src="https://img.shields.io/badge/%E6%B5%B7%E5%8F%A3%20HaiKou-1F6FEB?logo=googlemaps&logoColor=white">
 </p>
