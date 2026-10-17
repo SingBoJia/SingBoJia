@@ -10,8 +10,6 @@
 
 ---
 
-<h3 align="center">🦠 xiaoMei · 另一个我</h3>
-
 <p align="center">
   <em>Reverse Engineer / Security Researcher / Fullstack / Everything-Is-Source-Code Believer</em>
 </p>
